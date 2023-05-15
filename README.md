@@ -8,7 +8,7 @@ SiriGPT4CN是一个面向中国国内用户的项目，目的是将ChatGPT通过
 
 请点击下面的链接安装：
 
-https://www.icloud.com/shortcuts/f9c0abb681e04c57a3c22ba5de4e2610
+https://www.icloud.com/shortcuts/b432f5610b714f21845e60f3876b5657
 
 ## 如何使用
 
